@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mssql-jdbc-6.2.2.jre8">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Documents/Wouter - Fontys/0.15 pizza/semester4_module1/semester4_module1/lib/sqljdbc_6.2/enu/mssql-jdbc-6.2.2.jre8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
